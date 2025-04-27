@@ -13,7 +13,7 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-nextjs-project.git  
+git clone https://github.com/yusron-alamsyah/apique-web-app.git
 cd your-nextjs-project
 
 ### 2. Install dependencies
